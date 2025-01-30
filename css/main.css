@@ -114,10 +114,10 @@ body {
     width: 100%;
   }
   .timeline-item.left {
-    left: -35px;
+    left: -0px;
   }
   .timeline-item.right {
-    left: -35px;
+    left: -0px;
   }
 
   .timeline-item::after {
