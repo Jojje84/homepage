@@ -94,3 +94,16 @@
     display: none;
   }
 }
+
+@media only screen and (max-width: 390px) and (max-height: 844px) {
+  /* Anpassa här för iPhone 13 */
+  body {
+    background-color: lightblue; /* Exempeländring */
+  }
+
+  .container {
+    height: auto;
+    min-height: 100vh;
+    overflow-y: auto;
+  }
+}
