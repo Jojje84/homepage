@@ -78,6 +78,9 @@ body {
     border-radius: 0;
     flex-grow: 1;
   }
+  .dark-mode {
+    display: none;
+  }
 
   .intro-bild {
     align-items: left;
