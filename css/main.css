@@ -56,7 +56,6 @@ body {
   /* mobile nav synligt */
   .mobile-nav {
     display: flex;
-
     top: 0;
   }
   body {
