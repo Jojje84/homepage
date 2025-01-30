@@ -8,8 +8,7 @@
 @import url("second-content.css"); /* andra dele */
 
 @import url("nav.css"); /* meny för både mobil och tablet  */
-@import url("media-mobile.css"); /* media för mobile */
-@import url("media-tablet.css"); /* media för tablet */
+
 
 /* Container */
 
