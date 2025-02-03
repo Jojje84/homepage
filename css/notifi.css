@@ -107,6 +107,7 @@
   align-items: center; /* Vertikal centrering */
   justify-content: flex-start; /* Justerar ikon och text horisontellt */
   gap: 20px; /* Lägger lite mellanrum mellan ikon och text */
+
 }
 
 .weather-container {
@@ -116,7 +117,6 @@
   text-align: flex-start; /* Alternativt använd `center` för centrerad text */
   gap: 5px;
 }
-
 #location,
 #temperature,
 #description {
