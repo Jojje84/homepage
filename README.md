@@ -80,9 +80,7 @@ https://jojje84.github.io/homepage/
 
 👤 Jorge
 
-👤 **Jorge**  
-
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Jojje84)  
 [![Email](https://img.shields.io/badge/Email-jorgeavilas%40icloud.com-blue?logo=gmail&logoColor=white)](mailto:jorgeavilas@icloud.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--avila-35622030-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-avila-35622030/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-avila-35622030/)  
 
