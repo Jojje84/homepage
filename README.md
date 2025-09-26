@@ -24,6 +24,7 @@
 ---
 
 ## Project Structure
+
 ```
 homepage/
 ├── assets/          # Images, icons, CV-related media
@@ -39,6 +40,7 @@ homepage/
 ## Installation
 
 1. Clone the repository:
+
 ```
 git clone https://github.com/Jojje84/homepage.git
 cd homepage
@@ -46,7 +48,7 @@ cd homepage
 
 2. Open the project in your browser:
 
-- Double-click on index.html 
+- Double-click on index.html
 - Or serve it locally with a lightweight server (e.g., Live Server in VS Code).
 
 ## Deployment with GitHub Pages
@@ -54,12 +56,14 @@ cd homepage
 1. Go to your repository settings: Settings → Pages
 
 2. Under Build and deployment select:
+
    - Branch: main
    - Folder: /root
 
 3. Click Save
 
 4. Your digital CV will be available at:
+
 ```
 https://jojje84.github.io/homepage/
 ```
@@ -68,11 +72,9 @@ https://jojje84.github.io/homepage/
 
 ## Screenshots
 
-- Homepage-widget
-![homepage-sida](screenshots/homepage.png)
+- Homepage-widget ![homepage-sida](screenshots/homepage.png)
 
-- Homepage
-![homepage-sida](screenshots/homepage2.png)
+- Homepage ![homepage-sida](screenshots/homepage2.png)
 
 ---
 
@@ -81,6 +83,5 @@ https://jojje84.github.io/homepage/
 👤 Jorge
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Jojje84)  
-[![Email](https://img.shields.io/badge/Email-jorgeavilas%40icloud.com-blue?logo=gmail&logoColor=white)](mailto:jorgeavilas@icloud.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-avila-35622030/)  
-
+[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white)](mailto:jorgeavilas@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-avila-35622030/)
