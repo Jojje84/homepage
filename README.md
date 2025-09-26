@@ -82,7 +82,7 @@ https://jojje84.github.io/homepage/
 
 👤 Jorge
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Jojje84) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/Jojje84) 
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-blue?logo=icloud&logoColor=white)](mailto:jorgeavilas@icloud.com) 
 &nbsp;
