@@ -1,3 +1,15 @@
+/*
+ * Digital CV - Interactive JavaScript Functions
+ * Copyright (c) 2025 Jorge Avila
+ * Author: Jorge Avila (jorgeavilas@icloud.com)
+ * Repository: https://github.com/Jojje84/Digital-CV
+ * License: MIT License - see LICENSE file for details
+ * 
+ * This file contains interactive functionality for popups, notifications,
+ * clock, weather API integration, and dark mode toggle.
+ * Original work by Jorge Avila - please maintain attribution.
+ */
+
 // Öppna popup
 function openpopupaboutme() {
   document.getElementById("popup-aboutme").style.display = "flex";

@@ -1,3 +1,14 @@
+/*
+ * Digital CV - Main Stylesheet
+ * Copyright (c) 2025 Jorge Avila
+ * Author: Jorge Avila (jorgeavilas@icloud.com)
+ * Repository: https://github.com/Jojje84/Digital-CV
+ * License: MIT License - see LICENSE file for details
+ * 
+ * This file contains the main CSS styles and imports for the Digital CV website.
+ * Original work by Jorge Avila - please maintain attribution.
+ */
+
 /* css */
 @import url("colors.css"); /* färger / text på hemsida */
 @import url("notifi.css"); /* notifikationen som är först på sidan */
